@@ -62,7 +62,7 @@ Returns impact net revenue and must be considered in analysis
 
 ▶️ How to Run Locally
 
-git clone https://github.com/your-username/ecommerce-dashboard.git
+git clone https://github.com/braune100/ecommerce-dashboard.git
 cd ecommerce-dashboard
 pip install -r requirements.txt
 streamlit run app.py
