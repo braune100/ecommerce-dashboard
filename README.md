@@ -4,7 +4,7 @@ It analyzes transactional data (~97k rows) to provide insights into revenue, cus
 The dashboard enables dynamic filtering and highlights key business metrics to support data-driven decision-making.
 🚀 Live Demo
 
-🔗 https://ecommerce-dashboard.streamlit.app
+🔗 https://ecommerce-dashboard2.streamlit.app
 
 🛠️ Tools & Technologies
 
